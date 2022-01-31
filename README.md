@@ -8,4 +8,8 @@ Directions:
 2. Enter the larger number in the third text box. (Labled "Enter Larger Number)
 3. Click the "Calculate" button, and the percentage will populate in the middle text box. 
 
-***Remember to set your ExecutionPolicy! It's not included in this script***
+***Notes:***
+
+***Remember to set your ExecutionPolicy! It's not included in this script.***
+
+***The smaller number field is limited to 4 digits, the larger number field is limited to 5 digits.***
